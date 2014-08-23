@@ -4,13 +4,13 @@
 ## The assignment is to write a pair of functions that
 ## cache the inverse of a matrix.
 
-## `makeCacheMatrix`: This is the first function. It creates a special "matrix" object
+## 'makeCacheMatrix': This is the first function. It creates a matrix object
 ## that can cache its inverse.
 
-## `cacheSolve`: This ist the second function. It computes the inverse of the
+## 'cacheSolve': This ist the second function. It computes the inverse of the
 ## matrix returned by `makeCacheMatrix`. If the inverse has
 ## already been calculated (and the matrix has not changed), then
-## `cacheSolve` retrieve the inverse from the cache.
+## 'cacheSolve' retrieve the inverse from the cache.
 
 
 
